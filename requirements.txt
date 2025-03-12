@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+os-sys
+datetime
+geopandas
+folium
+streamlit
+plotly
+wordcloud
