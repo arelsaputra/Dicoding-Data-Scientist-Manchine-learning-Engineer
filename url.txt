@@ -1,0 +1,15 @@
+# E-Commerce Dashboard
+
+Welcome to **E-Commerce Dashboard**!
+Click the following link to open the Streamlit app:
+
+[Open Dashboard](https://dicoding-data-scientist-manchine-learning-engineer-dashboard.streamlit.app/)
+
+This dashboard presents various visualizations of e-commerce transaction data, including:
+- Monthly sales trends
+- Best-selling products
+- Product category word cloud
+- Correlation heatmap
+- Summary statistics
+
+Thanks for visiting!
