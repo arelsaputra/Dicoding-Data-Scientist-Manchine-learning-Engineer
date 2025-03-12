@@ -28,7 +28,7 @@ def load_data():
 dataset = load_data()
 
 if dataset is not None:
-    st.subheader("🔍 Contoh Data dari main_data.csv")
+    st.subheader("Contoh Data dari main_data.csv")
     st.write(dataset.head())
 
     st.sidebar.header("Filter Data")
