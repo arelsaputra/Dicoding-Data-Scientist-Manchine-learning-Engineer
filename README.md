@@ -21,7 +21,7 @@ The following is the directory structure of this project:
 
 ## Prerequisites
 
-Ensure you have installed the following software before running this project:
+Ensure have installed the following software before running this project:
 
 - Python 3.x
 - Pip
@@ -30,7 +30,7 @@ Ensure you have installed the following software before running this project:
 
 ## Installation
 
-Follow these steps to run this project on your computer:
+Follow these steps to run this project on computer:
 
 1. Clone this repository:
    ```sh
